@@ -1,9 +1,8 @@
 {
-  "name": "telegram-vercel",
+  "name": "telegram-bot-webhook",
   "version": "1.0.0",
-  "private": true,
-  "license": "MIT",
   "dependencies": {
-    "axios": "^1.7.2"
+    "axios": "^1.6.7",
+    "firebase-admin": "^11.11.1"
   }
 }
